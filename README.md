@@ -1,5 +1,5 @@
 # Deep Learning Specialization on Coursera 
-[click here for course link](https://www.coursera.org/specializations/deep-learning?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_deep-learning_deeplearning-ai_FTCOF_specializations_country-US-country-CA&campaignid=904733485&adgroupid=45435009112&device=c&keyword=deep%20learning%20classes&matchtype=b&network=g&devicemodel=&adposition=&creativeid=654942386832&hide_mobile_promo&gclid=EAIaIQobChMI7LnPk4rSggMVUdAWBR0OGw6vEAAYASAAEgJS2PD_BwE)
+[course link](https://www.coursera.org/specializations/deep-learning?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_deep-learning_deeplearning-ai_FTCOF_specializations_country-US-country-CA&campaignid=904733485&adgroupid=45435009112&device=c&keyword=deep%20learning%20classes&matchtype=b&network=g&devicemodel=&adposition=&creativeid=654942386832&hide_mobile_promo&gclid=EAIaIQobChMI7LnPk4rSggMVUdAWBR0OGw6vEAAYASAAEgJS2PD_BwE)
 
 As part of my self-taught journey towards becoming a data scientist, I am keeping record of the course work I have completed online. 
 
