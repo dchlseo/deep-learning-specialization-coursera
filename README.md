@@ -11,4 +11,21 @@ As part of my self-taught journey towards becoming a data scientist, I am keepin
 - Course 4: Convolutional Neural Networks
 - Course 5: Sequence Models
 
-  
+----
+### Introduction
+
+The Deep Learning Specialization offered by DeepLearning.AI (Instructor: [Andrew Ng](https://www.andrewng.org/)) on Coursera is designed to turn learners into experts in machine learning and deep learning, equipping them with the skills to break into the field of AI. The course has been recently updated and is available for enrollment at no cost.
+
+What you can expect from this specialization:
+
+1. **Building and Training Deep Neural Networks**: You will learn how to construct and train deep neural networks, implement vectorized neural networks, identify key architecture parameters, and apply deep learning to your own applications.
+
+2. **Best Practices and TensorFlow Implementation**: The course covers best practices for training and developing test sets, analyzing bias/variance for building deep learning applications, using standard neural network techniques, applying optimization algorithms, and implementing neural networks in TensorFlow.
+
+3. **Strategies for Reducing Errors in ML Systems**: It includes learning strategies to reduce errors in machine learning systems, understanding complex machine learning settings, and applying concepts like end-to-end learning, transfer learning, and multi-task learning.
+
+4. **Convolutional Neural Networks (CNNs)**: You will build a CNN and apply it to visual detection and recognition tasks, use neural style transfer to generate art, and apply these algorithms to image, video, and other 2D/3D data.
+
+5. **Recurrent Neural Networks (RNNs) and NLP**: The specialization also covers building and training Recurrent Neural Networks and its variants like GRUs and LSTMs. It includes applying RNNs to character-level language modeling, working with natural language processing (NLP) and Word Embeddings, and using HuggingFace tokenizers and transformers for tasks like Named Entity Recognition and Question Answering.
+
+This specialization is a comprehensive journey into the world of deep learning, making it an ideal choice for those looking to master the fundamentals and apply their knowledge in practical AI applications.
