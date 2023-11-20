@@ -4,8 +4,8 @@
 As part of my self-taught journey towards becoming a data scientist, I am keeping record of the course work I have completed online. 
 
 ### Courses 
-####('*': currently in progress)
-- Course 1: Neural Networks and Deep Learning *
+#### ('*': currently in progress)
+- Course 1: [Neural Networks and Deep Learning](Neural Networks and Deep Learning) *
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 - Course 3: Structuring Machine Learning Projects
 - Course 4: Convolutional Neural Networks
